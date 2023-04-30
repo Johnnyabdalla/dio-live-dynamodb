@@ -1,0 +1,5 @@
+{
+  "Product": {"S": "Chocolate"},
+  "Category": {"S": "Candy"},
+  "Price": {"S": "R$5.00"}
+}

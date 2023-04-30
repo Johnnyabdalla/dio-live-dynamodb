@@ -1,0 +1,40 @@
+{
+  "Music": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Product": {"S": "Kinder"},
+          "Category": {"S": "Candy"},
+          "Price": {"S": "R$8,00"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Product": {"S": "Toblerone"},
+          "Category": {"S": "Candy"},
+          "Price": {"S": "R$6,00"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Product": {"S": "Tortuguita"},
+          "Category": {"S": "Candy"},
+          "Price": {"S": "R$3,00"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Product": {"S": "M&Ms"},
+          "Category": {"S": "Candy"},
+          "Price": {"S": "R$5,00"}
+        }
+      }
+    }
+  ]
+}
